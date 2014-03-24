@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://blog.github.io/domain/sitemap.xml 
+Sitemap: http://blog.nt.tj/domain/sitemap.xml 

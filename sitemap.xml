@@ -1,19 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://blog.github.io/domain/archives/</loc>
-        <lastmod>2014-03-24T14:49:56+04:00</lastmod>
+        <loc>http://blog.nt.tj/domain/blog/2014/03/24/quick-start/</loc>
+        <lastmod>2014-03-24T15:34:04+04:00</lastmod>
     </url>
     <url>
-        <loc>http://blog.github.io/domain/blog/archives/</loc>
-        <lastmod>2014-03-24T14:49:56+04:00</lastmod>
+        <loc>http://blog.nt.tj/domain/archives/</loc>
+        <lastmod>2014-03-24T15:34:04+04:00</lastmod>
     </url>
     <url>
-        <loc>http://blog.github.io/domain/</loc>
-        <lastmod>2014-03-24T14:49:56+04:00</lastmod>
+        <loc>http://blog.nt.tj/domain/blog/archives/</loc>
+        <lastmod>2014-03-24T15:34:04+04:00</lastmod>
     </url>
     <url>
-        <loc>http://blog.github.io/domain/robots.txt</loc>
+        <loc>http://blog.nt.tj/domain/</loc>
+        <lastmod>2014-03-24T15:34:04+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.nt.tj/domain/robots.txt</loc>
         <lastmod>2014-03-24T14:49:56+04:00</lastmod>
     </url>
 </urlset>

@@ -4,7 +4,7 @@
   <title><![CDATA[Хроника доменной зоны TJ]]></title>
   <link href="http://blog.nt.tj/domain/atom.xml" rel="self"/>
   <link href="http://blog.nt.tj/domain/"/>
-  <updated>2014-03-24T17:27:29+04:00</updated>
+  <updated>2014-03-24T18:27:13+04:00</updated>
   <id>http://blog.nt.tj/domain/</id>
   <author>
     <name><![CDATA[Ivan Golodov]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Баг-трекер domain.nt.tj отныне открыт]]></title>
+    <link href="http://blog.nt.tj/domain/blog/2014/03/24/open-issue-tracker/"/>
+    <updated>2014-03-24T17:40:00+04:00</updated>
+    <id>http://blog.nt.tj/domain/blog/2014/03/24/open-issue-tracker</id>
+    <content type="html"><![CDATA[<p>Был крайне воодушевлён проявленным интересом к проекту <a href="http://domain.nt.tj/">domain.nt.tj</a> со стороны руководителей компаний-регистраторов <a href="http://get.tj/">GET.tj</a> и <a href="http://nukta.tj/">NUKTA.tj</a>. Джахонгир Забиров и Мубориз Субхонов обратили внимание на некоторые проблемы и неточности, которые присутствуют в статистике сайта. Баги были исправлены, а для более удобной обратной связи было решено сделать <a href="https://bitbucket.org/gines/tjdomains/issues">текущий баг-трекер проекта</a> публичным. Увидели проблему? Хотите предложить какое-нибудь улучшение? Нет ничего проще. <a href="https://bitbucket.org/gines/tjdomains/issues/new">Заводите тикет</a> на любом языке, которым свободно владеете. На текущий момент практически все известные баги проекта вылечены.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Хроника интересных событий в зоне TJ]]></title>

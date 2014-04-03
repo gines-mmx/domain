@@ -4,7 +4,7 @@
   <title><![CDATA[Хроника доменной зоны TJ]]></title>
   <link href="http://blog.nt.tj/domain/atom.xml" rel="self"/>
   <link href="http://blog.nt.tj/domain/"/>
-  <updated>2014-04-01T22:53:41+04:00</updated>
+  <updated>2014-04-03T23:07:07+04:00</updated>
   <id>http://blog.nt.tj/domain/</id>
   <author>
     <name><![CDATA[Ivan Golodov]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[-8 ... и такое бывает]]></title>
+    <link href="http://blog.nt.tj/domain/blog/2014/04/03/rozetka-dot-tj/"/>
+    <updated>2014-04-03T22:53:26+04:00</updated>
+    <id>http://blog.nt.tj/domain/blog/2014/04/03/rozetka-dot-tj</id>
+    <content type="html"><![CDATA[<p>3 апреля в доменной зоне TJ не было зарегистрировано ни одного домена, зато в отток ушли восемь. Среди них интернет-магазин <a href="http://domain.nt.tj/whois/rozetka.tj/">rozetka.tj</a> и <a href="http://domain.nt.tj/whois/gramofon.tj/">gramofon.tj</a> &ndash; поисковая система музыки. Вот впрочем и всё, остальные домены не столь интересны, многие из них не были привязаны к каким-либо сайтам, поэтому писать особо нечего.</p>
+
+<p>Итог дня &ndash; в зоне TJ стало на 8 доменов меньше.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Возвращение Аралаша]]></title>

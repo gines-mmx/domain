@@ -4,7 +4,7 @@
   <title><![CDATA[Хроника доменной зоны TJ]]></title>
   <link href="http://blog.nt.tj/domain/atom.xml" rel="self"/>
   <link href="http://blog.nt.tj/domain/"/>
-  <updated>2014-04-04T22:50:10+04:00</updated>
+  <updated>2014-04-04T22:52:14+04:00</updated>
   <id>http://blog.nt.tj/domain/</id>
   <author>
     <name><![CDATA[Ivan Golodov]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<p><img class="center" src="http://blog.nt.tj/domain/images/lego.jpg">
 День веб-мастера отметился для зоны TJ потерей 18 доменных имён. К сожалению, как и вчера, ни одного не зарегистрировано. Есть информация, что <a href="http://www.nic.tj/">администрация зоны</a> уже несколько дней не принимает заявки на регистрацию и с чем это связано пока не известно. Однако это не мешает оттоку доменов. Впрочем из 18 интересных почти нет.</p>
 
-<p>Освободившиеся ключевики: <a href="http://domain.nt.tj/whois/sly.tj/">sly.tj</a>, <a href="http://domain.nt.tj/whois/sozmon.tj/">socket.tj</a> и <a href="http://domain.nt.tj/whois/twins.tj/">twins.tj</a>.</p>
+<p>Освободившиеся ключевики: <!-- more --><a href="http://domain.nt.tj/whois/sly.tj/">sly.tj</a>, <a href="http://domain.nt.tj/whois/sozmon.tj/">socket.tj</a> и <a href="http://domain.nt.tj/whois/twins.tj/">twins.tj</a>.</p>
 
 <p>Также освободился <a href="http://domain.nt.tj/whois/tojpay.tj/">tojpay.tj</a> и у компании <a href="http://tajpay.tj">OOO TOJPAY</a> появилась реальная возможность купить домен по себестоимости.</p>
 
@@ -29,7 +29,7 @@
 
 <p><img class="center" src="http://blog.nt.tj/domain/images/sozmon.png"></p>
 
-<p>Итог дня: -18 &hellip; похолодание в зоне TJ</p>
+<p>-18 &hellip; похолодание в зоне TJ</p>
 ]]></content>
   </entry>
   

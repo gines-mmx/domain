@@ -4,7 +4,7 @@
   <title><![CDATA[Хроника доменной зоны TJ]]></title>
   <link href="http://blog.nt.tj/domain/atom.xml" rel="self"/>
   <link href="http://blog.nt.tj/domain/"/>
-  <updated>2014-04-04T22:52:14+04:00</updated>
+  <updated>2014-04-05T22:50:09+04:00</updated>
   <id>http://blog.nt.tj/domain/</id>
   <author>
     <name><![CDATA[Ivan Golodov]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Урожайная суббота]]></title>
+    <link href="http://blog.nt.tj/domain/blog/2014/04/05/saturday/"/>
+    <updated>2014-04-05T20:50:22+04:00</updated>
+    <id>http://blog.nt.tj/domain/blog/2014/04/05/saturday</id>
+    <content type="html"><![CDATA[<p>Несмотря на субботу, в доменной зоне TJ выдался жаркий день. Было зарегистрировано 15 доменов, а освободилось 23. Из интересных зарегистрированных хочется отметить:</p>
+
+<ul>
+<li>ключевики <a href="http://domain.nt.tj/whois/agro.tj/">agro.tj</a>, <a href="http://domain.nt.tj/whois/famous.tj/">famous.tj</a> &ndash; Сайт глянцевого журнала Famous, <a href="http://domain.nt.tj/whois/prava.tj/">prava.tj</a> &ndash; Информационный сайт о получении и замене водительских прав, <a href="http://domain.nt.tj/whois/vazifa.tj/">vazifa.tj</a> &ndash; Поиск резюме и работы. База данных вакансий, <a href="http://domain.nt.tj/whois/volunteer.tj/">volunteer.tj</a> &ndash; База данных волонтеров «Национальная ассоциация волонтеров Таджикистана», <a href="http://domain.nt.tj/whois/habar.tj/">habar.tj</a> &ndash; Новостной сайт</li>
+<li>также были зарегистрированы <a href="http://domain.nt.tj/whois/helpme.tj/">helpme.tj</a> &ndash; Уроки графического дизайна и вебдизайна, <a href="http://domain.nt.tj/whois/ifilm.tj/">ifilm.tj</a> &ndash; Развлекательный портал, <a href="http://domain.nt.tj/whois/vatanhotel.tj/">vatanhotel.tj</a> &ndash; Гостиница “Ватан”</li>
+</ul>
+
+
+<p>Безусловно не все эти сайты будут запущены, но даже если будет реализована часть из них, то это будет хорошим шагом в развитии таджнета.</p>
+
+<p>Регистратор <a href="http://get.tj/">GET.tj</a> продолжает активно чистить свою базу непродлённых доменных имён и сегодня была прекращена регистрация 23 из них. Но особо интересных к сожалению нет, за исключением <a href="http://domain.nt.tj/whois/msk.tj/">msk.tj</a>, <a href="http://domain.nt.tj/whois/pix.tj/">pix.tj</a>, <a href="http://domain.nt.tj/whois/races.tj/">races.tj</a>.</p>
+
+<p><strong>[ +15 / -23 ]</strong> итог субботы в зоне TJ</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[С днем веб-мастера или -18 в зоне TJ!]]></title>

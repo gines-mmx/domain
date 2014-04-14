@@ -4,7 +4,7 @@
   <title><![CDATA[Хроника доменной зоны TJ]]></title>
   <link href="http://blog.nt.tj/domain/atom.xml" rel="self"/>
   <link href="http://blog.nt.tj/domain/"/>
-  <updated>2014-04-12T12:07:21+04:00</updated>
+  <updated>2014-04-14T12:28:37+04:00</updated>
   <id>http://blog.nt.tj/domain/</id>
   <author>
     <name><![CDATA[Ivan Golodov]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Сайт администрации зоны TJ недоступен]]></title>
+    <link href="http://blog.nt.tj/domain/blog/2014/04/14/nic-dot-tj-is-down/"/>
+    <updated>2014-04-14T12:20:52+04:00</updated>
+    <id>http://blog.nt.tj/domain/blog/2014/04/14/nic-dot-tj-is-down</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://nt.tj/wp-files/nic-e1397463577869.png"></p>
+
+<p>В субботу во второй половине дня <a href="http://www.nic.tj">сайт администрации доменной зоны tj</a> перестал отвечать на запросы. Пока неясно с чем связано падение сайта, но он до сих пор офлайн, уже 3-ий день. Правда иногда стали заметны признаки жизни и он с трудом открывается, возможно это DDOS-атака.</p>
+
+<p>Перед тем как уйти в офлайн был зарегистрирован один домен &ndash; <a href="http://domain.nt.tj/whois/prodam.tj/">prodam.tj</a> &ndash; очередная попытка создания сайта бесплатных объявлений.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[+5/-3 - результат пятницы]]></title>
@@ -22,7 +35,7 @@
 
 <ul>
 <li><a href="http://domain.nt.tj/whois/anilife.tj/">anilife.tj</a> и <a href="http://domain.nt.tj/whois/iona.tj/">iona.tj</a> &ndash; Сразу 2 домена зарегистрированы для проекта по каталогизации ссылок анимационной продукции. <em>Интригующее название проекта, увидим, что получится в результате</em></li>
-<li><a href="http://domain.nt.tj/whois/mediabox.tj/">mediabox.tj</a> &ndash; Для создания видео-портала mediabox.tj: онлайн просмотр видео, видеороликов для пользователей. <em>Количество подобных проектов в таджнете можно пересчитать используя пальцы одной руки, поэтому лишним не будет ещё один ресурс для просмотра видеороликов. Вопрос в том, смогут ли авторы проекта потянуть расходы на ресурсы сервера и создание такого сайта</em></li>
+<li><a href="http://domain.nt.tj/whois/mediabox.tj/">mediabox.tj</a> &ndash; Для создания видео-портала mediabox.tj: онлайн просмотр видео, видеороликов для пользователей. <em>Количество подобных проектов в таджнете можно пересчитать, используя пальцы одной руки, поэтому лишним не будет ещё один ресурс для просмотра видеороликов. Вопрос в том, смогут ли авторы проекта потянуть расходы на ресурсы сервера и создание такого сайта</em></li>
 </ul>
 
 

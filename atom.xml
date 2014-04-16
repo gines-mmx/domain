@@ -4,7 +4,7 @@
   <title><![CDATA[Хроника доменной зоны TJ]]></title>
   <link href="http://blog.nt.tj/domain/atom.xml" rel="self"/>
   <link href="http://blog.nt.tj/domain/"/>
-  <updated>2014-04-15T10:34:07+04:00</updated>
+  <updated>2014-04-16T23:11:12+04:00</updated>
   <id>http://blog.nt.tj/domain/</id>
   <author>
     <name><![CDATA[Ivan Golodov]]></name>
@@ -14,11 +14,32 @@
 
   
   <entry>
+    <title type="html"><![CDATA[12 новых доменов в зоне TJ]]></title>
+    <link href="http://blog.nt.tj/domain/blog/2014/04/16/16-april/"/>
+    <updated>2014-04-16T22:45:16+04:00</updated>
+    <id>http://blog.nt.tj/domain/blog/2014/04/16/16-april</id>
+    <content type="html"><![CDATA[<p>15 и 16 апреля было зарегистрировано 12 доменов, хотя на самом деле 13, но один как-то сразу освободился &ndash; <a href="http://domain.nt.tj/whois/499.tj/">499.tj</a>. Как видите регистрация цифровых доменов возможна, хотя сам сервис проверки доменных имён на сайте администрации зоны бракует такие домены. И создаётся обманчивое ощущение, что такие домены регистрировать нельзя. Однозначно ошибка системы, о которой кстати администрация зоны TJ знает.</p>
+
+<p>Итак, из 12 зарегистрированных доменов хотелось бы отметить:</p>
+
+<ul>
+<li><a href="http://domain.nt.tj/whois/javonon.edu.tj/">javonon.edu.tj</a> &ndash; здесь будет сайт о жизни таджикских студентов учащихся за рубежом. <em>Всего же на сегодняшний день зарегистрировано ещё 6 доменов *.edu.tj Этот домен второго уровня предназначен для регистрации доменов образовательных учереждений, организаций и сайтов так или иначе связанных с образованием. Но как и .gov.tj этот домен не стал популярным. Образовательные учереждения Таджикистана предпочитают регистрировать домен в корневой зоне. Возможно из-за того, что не осведомлены о существовании .edu.tj или просто хотят иметь короткое доменное имя. Хотя кто запрещает зарегистрироваться сразу в 2-х местах? &hellip; <!-- more -->Из 6 зарегистрированных доменов работает только один &ndash; <a href="http://ktsu.edu.tj">ktsu.edu.tj</a> &ndash; сайт Курган-Тюбинского государственного университета</em></li>
+<li><a href="http://domain.nt.tj/whois/bedil.tj/">bedil.tj</a> &ndash; создание сайта о поэте и мыслителе Мирза Абдулкадир Бедиль</li>
+<li><a href="http://domain.nt.tj/whois/boomerang.tj/">boomerang.tj</a> и <a href="http://domain.nt.tj/whois/bumerang.tj/">bumerang.tj</a> &ndash; два домена для социального проекта помощи нуждающимся <strong>Бумеранг добра &ndash; всегда возвращается</strong></li>
+<li>Целых 3 домена было зарегистрировано научно-клиническим институтом стоматологии и челюстно-лицевой хирургии <a href="http://domain.nt.tj/whois/piks.tj/">piks.tj</a>, <a href="http://domain.nt.tj/whois/pix.tj/">pix.tj</a>, <a href="http://domain.nt.tj/whois/stomatologiya.tj/">stomatologiya.tj</a></li>
+</ul>
+
+
+<p><strong>[ +12 ]</strong> &ndash; прирост доменной зоны TJ за 2 дня.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[14 апреля - новых доменов нет]]></title>
     <link href="http://blog.nt.tj/domain/blog/2014/04/15/14-april/"/>
     <updated>2014-04-15T09:54:25+04:00</updated>
     <id>http://blog.nt.tj/domain/blog/2014/04/15/14-april</id>
-    <content type="html"><![CDATA[<p>Сайт администрации доменной зоны TJ вновь в строю, но новых доменов 14 апреля зарегистрировано не было. Зато освободилось 9 доменов. Вот некоторые из них:</p>
+    <content type="html"><![CDATA[<p>Сайт администрации доменной зоны TJ вновь в строю, но новых доменов 14 апреля зарегистрировано не было. Зато освободились 9 названий. Вот некоторые из них:</p>
 
 <ul>
 <li><a href="http://domain.nt.tj/whois/iseb.tj/">iseb.tj</a> &ndash; домен магазина, который специализируется на реализации продукции Apple в Душанбе.</li>

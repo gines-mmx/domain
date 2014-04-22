@@ -4,7 +4,7 @@
   <title><![CDATA[Хроника доменной зоны TJ]]></title>
   <link href="http://blog.nt.tj/domain/atom.xml" rel="self"/>
   <link href="http://blog.nt.tj/domain/"/>
-  <updated>2014-04-18T21:58:58+04:00</updated>
+  <updated>2014-04-22T09:56:59+04:00</updated>
   <id>http://blog.nt.tj/domain/</id>
   <author>
     <name><![CDATA[Ivan Golodov]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Затишье перед бурей]]></title>
+    <link href="http://blog.nt.tj/domain/blog/2014/04/22/21-april/"/>
+    <updated>2014-04-22T09:51:03+04:00</updated>
+    <id>http://blog.nt.tj/domain/blog/2014/04/22/21-april</id>
+    <content type="html"><![CDATA[<p>В доменной зоне .TJ пока тихо &ndash; в понедельник 21 апреля было зарегистрировано всего 3 домена и 1 ушёл в отток. Вот впрочем и всё, интересных названий или проектов не появилось, разве что ещё один домен с префиксом toj &ndash; <a href="http://domain.nt.tj/whois/tojbanks.tj/">tojbanks.tj</a>.</p>
+
+<p><strong>[ +3 / -1 ]</strong> &ndash; +2 активных домена</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[+5 / -15 - доменная зона .TJ похудела на 10 доменов]]></title>
